@@ -1,0 +1,17 @@
+base: &base
+  adapter: postgresql
+  pool: 5
+  timeout: 5000
+  host: localhost
+
+development:
+  <<: *base
+  database: abuelaremedios_dev
+
+test: &test
+  <<: *base
+  database: abuelaremedios_test
+
+production:
+  <<: *base
+  database: abuelaremedios_prod
