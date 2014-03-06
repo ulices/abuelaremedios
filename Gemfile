@@ -14,3 +14,9 @@ gem 'uglifier', '>= 1.3.0'
 group :doc do
   gem 'sdoc', require: false
 end
+
+group :test do
+  gem 'cucumber-rails', require: false
+  # database_cleaner is not required, but highly recommended
+  gem 'database_cleaner'
+end

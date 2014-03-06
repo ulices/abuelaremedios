@@ -15,3 +15,6 @@ test: &test
 production:
   <<: *base
   database: abuelaremedios_prod
+
+cucumber:
+  <<: *test
