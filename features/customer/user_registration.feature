@@ -1,6 +1,6 @@
 Feature: User registration
-  A user can visit the site and is able to navigate trhough it
-  And if he decide became a customer and request to receive a newsletter
+  A user can visit the site and is able to navigate through it
+  And if he decide to become a customer and request to receive a newsletter
   He can provide his information in order to register
   And then he can login and logout the site.
 
@@ -9,3 +9,5 @@ Feature: User registration
   Scenario: A user should be able to register
 
   Scenario: A user should be able to receive a newsletter
+
+  Scenario: A user should be able to log out

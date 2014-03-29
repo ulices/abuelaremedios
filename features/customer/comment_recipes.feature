@@ -1,6 +1,6 @@
 Feature: Comment recipes
   A Customer is able to see recipes
-  And has the ability to commeted
+  And has the ability to comment
 
   Scenario: A gest should not be able comment recipes
 
