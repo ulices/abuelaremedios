@@ -1,5 +1,5 @@
 Feature: Admin sign in
-  Admin can logi in into the site
+  Admin can login into the site
   And can edit his credentials
 
   Scenario: An Admin can sign in

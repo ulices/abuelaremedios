@@ -17,11 +17,11 @@ Feature: Admin manage recipes
 
   Scenario: I should be able to edit a recipe
 
-  Scenario: I should see all register user
+  Scenario: I should see all registered users
 
   Scenario: I should see all collaborators
 
-  Scenario: I can access to a collaborator recipes list
+  Scenario: I have access to a collaborator recipes list
 
   Scenario: I have the ability to accept a collaborator request to create a recipe
 

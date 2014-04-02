@@ -6,8 +6,6 @@ Feature: Admin manage collaborators
 
   Background: As an Admin
 
-  Scenario: I should be able to sign in
-
   Scenario: I should be able to create a collaborator account
 
   Scenario: I have the ability to accept a user request to become a collaborator
