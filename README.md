@@ -20,8 +20,8 @@ Models
     role_id
 
   Recipes
-    nombre
-    descripcion
+    name
+    description
     state
     how_to_use
     how_to_create
