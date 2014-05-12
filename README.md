@@ -30,15 +30,15 @@ Models
     name
     description
 
-  RecepieIngredients
-    recepie_id
+  RecipesIngredients
+    recipe_id
     ingredient_id
 
   Tags
     name
 
-  RecepieTags
-    recepie_id
+  RecipesTags
+    recipe_id
     tag_id
 
   Ranking
@@ -48,6 +48,6 @@ Models
 
   Comments
     description
-    recepie_id
+    recipe_id
     user_id
 ```
